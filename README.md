@@ -1,16 +1,20 @@
-# authuz
+# Authuz
 
-A new Flutter project.
+Bu proyekt, Dart tilida yozilgan va Flutter ilova qo'llanma orqali ishlatiladigan foydalanuvchi avtorizatsiya (user authentication) API ni o'z ichiga oladi.
 
-## Getting Started
+## Flutter Ilova
 
-This project is a starting point for a Flutter application.
+Flutter ilova repozitoriyasi: [https://github.com/qahor0v/authuz](https://github.com/qahor0v/authuz)
 
-A few resources to get you started if this is your first Flutter project:
+## Dart API
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dart API repozitoriyasi: [https://github.com/qahor0v/authuz/tree/master/aut0uz](https://github.com/qahor0v/authuz/tree/master/aut0uz)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Qo'llanma
+
+1. **Clone** qilib oling:
+   ```bash
+   git clone https://github.com/qahor0v/authuz.git
+
+
+Bu orqa yozuvni o'zgartirishingiz mumkin va repozitoriyangiz uchun qo'shimcha ma'lumotlarni qo'shishingiz mumkin. Bu, foydalanuvchilarga repozitoriyangizni tushunishda yordam beringan yozuvni yaratadi.
