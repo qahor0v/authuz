@@ -17,11 +17,11 @@ Dart API repozitoriyasi: [https://github.com/qahor0v/authuz/tree/master/aut0uz](
    git clone https://github.com/qahor0v/authuz.git
 
    
-2. **Flutter uchun** qilib oling:
+2. **Flutter uchun** terminalga kiriting:
    ```bash
    flutter pub get
 
-3. **Dart API loyihasi uchun uchun** qilib oling:
+3. **Dart API loyihasi uchun uchun** terminalga kiriting:
    ```bash
    dart pub get
 
